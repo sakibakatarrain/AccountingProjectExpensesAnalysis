@@ -1,1 +1,1 @@
-# AccountingProjects
+# ProfessionalProjects
